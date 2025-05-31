@@ -12,6 +12,12 @@ Perfect for hackathons, demos, or brainstorming sessions!
 
 ---
 
+## Example Output
+
+![Example output of LangChain workflow](example-output.png)
+
+---
+
 ## Features
 
 - **Runs locally** using open-source models (no API key required)
